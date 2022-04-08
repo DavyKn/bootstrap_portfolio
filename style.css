@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.position-relative {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.languages_container {
+  margin-top: 40px;
+}
+
+.About_myself .image_placeholder {
+  background-color: #fff;
+  width: 327px;
+  height: 237px;
+}
