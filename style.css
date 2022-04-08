@@ -11,3 +11,9 @@
 .languages_container {
   margin-top: 40px;
 }
+
+.About_myself .image_placeholder {
+  background-color: #fff;
+  width: 327px;
+  height: 236px;
+}
